@@ -20,7 +20,7 @@ I'm a passionate software engineer with 9+ years of experience building scalable
 
 - 📧 Email: inzamamtahir@gmail.com
 - 📞 Phone: +92 324 6136095
-- 💼 LinkedIn: [View My Profile](https://www.linkedin.com/in/inzamam-tahir-8b3b3b1b3/)
+- 💼 LinkedIn: [View My Profile](https://www.linkedin.com/in/inzamam-tahir-06531978/)
 
 ### 🛠️ Open Source Contributions
 
