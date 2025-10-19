@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:inzamamtahir@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-green?style=flat)](https://inzamamtahir.github.io)
 
-## 🚀 Full Stack Engineer (ReactJs / Ruby on Rails)
+## 🚀 Full Stack Engineer (ReactJs / Ruby on Rails / NodeJs)
 
 I'm a passionate software engineer with 9+ years of experience building scalable web applications. I enjoy solving complex problems and creating efficient, user-friendly solutions.
 
